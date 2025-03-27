@@ -11,7 +11,6 @@ In the works:
 
 ## To run 
 Note that it currently only works on Linux machines (using select.poll instead of select.select -> change that line for windows and it should work)
-### 2️⃣ Clone the Repository
 ```bash
 git clone <repository-url>
 cd <repository-folder>
